@@ -190,7 +190,7 @@ export default function DynamicResumeBuilder() {
     li { margin-bottom: 6px; font-size: 14px; }
 
     /* small helpers */
-    .muted { color: #6b7280; font-size: 13px; }
+    .muted { color: #000000ff; font-size: 13px; }
     .flex-between { display:flex; justify-content:space-between; align-items:center; gap:12px; }
 
     /* print */
